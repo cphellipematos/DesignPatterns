@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "DesignPatterns.StrategyPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/DesignPatterns.StrategyPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesignPatterns.StrategyPattern.dll": {}
+        }
       }
     }
   },
@@ -673,10 +683,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "DesignPatterns.StrategyPattern/1.0.0": {
+      "type": "project",
+      "path": "../DesignPatterns.StrategyPattern/DesignPatterns.StrategyPattern.csproj",
+      "msbuildProject": "../DesignPatterns.StrategyPattern/DesignPatterns.StrategyPattern.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "DesignPatterns.StrategyPattern >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -707,7 +723,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern/DesignPatterns.StrategyPattern.csproj": {
+              "projectPath": "/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern/DesignPatterns.StrategyPattern.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

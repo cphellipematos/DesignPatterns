@@ -1,0 +1,9 @@
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern/bin/Debug/netstandard2.0/DesignPatterns.StrategyPattern.deps.json
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern/bin/Debug/netstandard2.0/DesignPatterns.StrategyPattern.dll
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern/bin/Debug/netstandard2.0/DesignPatterns.StrategyPattern.pdb
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern/obj/Debug/netstandard2.0/DesignPatterns.StrategyPattern.csprojAssemblyReference.cache
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern/obj/Debug/netstandard2.0/DesignPatterns.StrategyPattern.csproj.CoreCompileInputs.cache
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern/obj/Debug/netstandard2.0/DesignPatterns.StrategyPattern.AssemblyInfoInputs.cache
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern/obj/Debug/netstandard2.0/DesignPatterns.StrategyPattern.AssemblyInfo.cs
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern/obj/Debug/netstandard2.0/DesignPatterns.StrategyPattern.dll
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern/obj/Debug/netstandard2.0/DesignPatterns.StrategyPattern.pdb

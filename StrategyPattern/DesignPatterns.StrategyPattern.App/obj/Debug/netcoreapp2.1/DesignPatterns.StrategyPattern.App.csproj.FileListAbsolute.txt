@@ -1,0 +1,14 @@
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern.App/bin/Debug/netcoreapp2.1/DesignPatterns.StrategyPattern.App.deps.json
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern.App/bin/Debug/netcoreapp2.1/DesignPatterns.StrategyPattern.App.runtimeconfig.json
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern.App/bin/Debug/netcoreapp2.1/DesignPatterns.StrategyPattern.App.runtimeconfig.dev.json
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern.App/bin/Debug/netcoreapp2.1/DesignPatterns.StrategyPattern.App.dll
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern.App/bin/Debug/netcoreapp2.1/DesignPatterns.StrategyPattern.App.pdb
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern.App/bin/Debug/netcoreapp2.1/DesignPatterns.StrategyPattern.dll
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern.App/bin/Debug/netcoreapp2.1/DesignPatterns.StrategyPattern.pdb
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern.App/obj/Debug/netcoreapp2.1/DesignPatterns.StrategyPattern.App.csprojAssemblyReference.cache
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern.App/obj/Debug/netcoreapp2.1/DesignPatterns.StrategyPattern.App.csproj.CoreCompileInputs.cache
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern.App/obj/Debug/netcoreapp2.1/DesignPatterns.StrategyPattern.App.AssemblyInfoInputs.cache
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern.App/obj/Debug/netcoreapp2.1/DesignPatterns.StrategyPattern.App.AssemblyInfo.cs
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern.App/obj/Debug/netcoreapp2.1/DesignPatterns.StrategyPattern.App.csproj.CopyComplete
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern.App/obj/Debug/netcoreapp2.1/DesignPatterns.StrategyPattern.App.dll
+/Users/phellipe/Developer/DesignPatterns/StrategyPattern/DesignPatterns.StrategyPattern.App/obj/Debug/netcoreapp2.1/DesignPatterns.StrategyPattern.App.pdb
